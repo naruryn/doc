@@ -151,6 +151,11 @@
 
 ---
 
+## 利用規約
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+---
+
 ## 他サイトへのリンク
 
 当社サービスには外部サイトへのリンクが含まれる場合があります。  
