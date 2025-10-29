@@ -176,6 +176,6 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 本プライバシーポリシーに関するお問い合わせは、以下の方法でご連絡ください。
 
-- Webサイト: [http://tankyu-shin.com](http://tankyu-shin.com)
+- Webサイト: [https://tankyu-shin.com](https://tankyu-shin.com)
 
 ---
